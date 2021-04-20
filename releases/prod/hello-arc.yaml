@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Demo gitops con AzureARC!
+      value: Demo gitops con AzureARC abril 20!
